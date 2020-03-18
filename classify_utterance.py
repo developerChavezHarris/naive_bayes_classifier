@@ -20,9 +20,7 @@ def classify_utterance():
 
 while True:
     classify_utterance()
-    exit = input("Is there another utterance I can classify ? type 'quit' to exit. ")
+    exit = input("Type 'quit' to exit or press enter key to continue classifying: ")
     if exit == 'quit':
         break
-    else:
-        classify_utterance()    
 
