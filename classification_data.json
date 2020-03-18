@@ -1,0 +1,12 @@
+[
+    {"text":"what is the weather","label":"get_weather_info"},
+    
+    {"text":"will it be sunny tomorrow","label":"get_weather_info"},
+    
+    {"text":"is it gonna snow in london this afternoon","label":"get_weather_info"},
+    
+    {"text":"is it raining in france today","label":"get_weather_info"},
+    
+    {"text":"get me some info on the weather","label":"get_weather_info"}
+    
+    ]
